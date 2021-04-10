@@ -2,9 +2,9 @@
 
 Artsiom Krauchanka,
 
-**KLASYFIKACJA GATUNKU MUZYKI**
+**KLASYFIKACJA GATUNKU MUZYKI na podstawie KNN i Naive Bayes**
 
-**na podstawie KNN i Naive Bayes**
+
 
 **1. Streszczenie projektu**
 
