@@ -40,12 +40,6 @@ feature.mfcc - charakterystyki spektru
 
 Numpy - Biblioteka do pracy z macierzami
 
-array – macierzy
-
-mean – wartość średnia
-
-sum – suma wszystkich elementów
-
 Abstractmethod – annotacja do metody abstrakcyjnej
 
 ABC – Do realizacji mechanizmów dziedziczenia
