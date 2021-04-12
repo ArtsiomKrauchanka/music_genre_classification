@@ -1,7 +1,5 @@
 ﻿
 
-Artsiom Krauchanka,
-
 **KLASYFIKACJA GATUNKU MUZYKI na podstawie KNN i Naive Bayes**
 
 
